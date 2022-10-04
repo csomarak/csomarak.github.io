@@ -12,6 +12,8 @@ Teaching
 
 Personal
 
+	Thoughts		[personal.html]
+
 Links-Affiliations
 	PARC	   		[http://www.parc.com]
 	DCDS-LAB LU		[https://dcds.lehigh.edu/]
