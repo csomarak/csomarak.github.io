@@ -6,14 +6,15 @@ General
 Research
 	Projects		[projects.html]
 	Publications		[publications.html]
-	Talks			[talks.html]
+	Patents			[patents.html]
+	Invited Talks		[talks.html]
 
 Teaching
 	Courses			[courses.html]
 
 Personal
 
-	Thoughts		[personal.html]
+	Blog (GR) 		[cslakonas.blogspot.com]
 
 Links-Affiliations
 	PARC	   		[http://www.parc.com]
