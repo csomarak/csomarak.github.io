@@ -6,6 +6,7 @@ General
 Research
 	Projects		[projects.html]
 	Publications		[publications.html]
+	Talks			[talks.html]
 
 Teaching
 	Courses			[courses.html]
